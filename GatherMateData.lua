@@ -56,6 +56,7 @@ local cataZones = {
 	[244] = true,
 	[245] = true,
 	[276] = true,
+	[1527] = true,
 }
 
 local mistsZones = {
